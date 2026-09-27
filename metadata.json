@@ -1,0 +1,6 @@
+{
+  "name": "익명 고민 상담소",
+  "description": "학생들을 위한 익명 고민 나눔 및 따뜻한 위로 상담소 게시판 앱과 Supabase SQL 스크립트 도구",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
